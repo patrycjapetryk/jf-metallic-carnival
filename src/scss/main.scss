@@ -1,0 +1,89 @@
+@import '_variables';
+@import '_fonts';
+
+body {
+  margin: 0;
+}
+
+.main {
+  color: $main-color;
+  font-family: $main-font;
+  font-size: $global-font-size;
+  line-height: $global-line-height;
+  font-weight: $global-font-weight;
+  letter-spacing: $global-letter-spacing;
+
+  width: 100%;
+  max-width: $fullscreen-max-width;
+  min-width: $main-min-width;
+  margin: 0 auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0 0 calc($gap-desktop / 2) 0;
+  gap: $gap-desktop;
+
+  overflow-x: hidden;
+  box-sizing: border-box;
+
+  @media (max-width: $breakpoint-tablet-width) {
+    padding: 0 0 calc($gap-mobile / 2) 0;
+    gap: $gap-mobile;
+  }
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+
+  // &::before {
+  //   content: '';
+  //   width: 100%;
+  //   height: 100%;
+  //   display: block;
+  //   background-color: $background-color;
+  //   position: absolute;
+  //   left: 50%;
+  //   top: 0;
+  //   transform: translateX(-50%);
+  //   z-index: -1;
+  // }
+}
+
+@import 'modules/_header';
+@import 'modules/_player';
+@import 'modules/_title';
+@import 'modules/_button';
+@import 'modules/_gallery';
+@import 'modules/_carousel';
+@import 'modules/_paragraph';
+@import 'modules/_product';
+
+// @import 'modules/_background';
+
+// .c-content {
+//   padding: 0 0 20px;
+// }
+
+// .c-headline {
+//   display: none;
+// }
+
+// .c-layout_row.c-layout_item.is-breadcrumb.is-container {
+//   display: none;
+// }
+
+// .c-layout_col.is-content,
+// .c-layout_row.is-content {
+//   @media screen and (min-width: 980px) {
+//     width: 100%;
+//     float: none;
+//   }
+// }
+
+// .c-layout_col.c-layout_item.is-sidebar {
+//   display: none;
+// }
