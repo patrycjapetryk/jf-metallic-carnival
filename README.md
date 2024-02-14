@@ -1,3 +1,19 @@
+
+![ccc-8](https://github.com/patrycjapetryk/jf-metallic-carnival/assets/51820512/bcb8f193-a214-41fb-8dba-bfca82e48367)
+
+
+# Jenny Fairy Metallic Carnival
+
+Landing Page for Jenny Fairy, a fashion brand. It was built using Vanilla JS, PUG, SCSS, and Vite.
+
+- **Online version**: [[Open live demo]](https://jf-matallic-carnival.netlify.app)
+
+&nbsp;
+
+https://github.com/patrycjapetryk/jf-metallic-carnival/assets/51820512/baf115c9-62f3-4ccd-bdc2-f5a56e13a480
+
+&nbsp;
+
 # LP template
 
 Simple toolkit for your static websites development.
