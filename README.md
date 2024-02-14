@@ -1,6 +1,5 @@
 
-![ccc-8](https://github.com/patrycjapetryk/jf-metallic-carnival/assets/51820512/bcb8f193-a214-41fb-8dba-bfca82e48367)
-
+![ccc-8](https://github.com/patrycjapetryk/jf-metallic-carnival/assets/51820512/6b480f6d-796b-4ab5-9e81-3a8266a5a6b3)
 
 # Jenny Fairy Metallic Carnival
 
