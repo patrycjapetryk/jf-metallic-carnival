@@ -3,7 +3,7 @@
 
 # Jenny Fairy Metallic Carnival
 
-Landing Page for Jenny Fairy, a fashion brand. It was built using Vanilla JS, PUG, SCSS, and Vite.
+Landing Page for Jenny Fairy, a fashion brand. It was built using Vanilla JS, PUG, SCSS, and Webpack.
 
 - **Online version**: [[Open live demo]](https://jf-matallic-carnival.netlify.app)
 
